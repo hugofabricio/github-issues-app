@@ -2,9 +2,9 @@
 >
 > ReactJS app
 
-[Access it](https://facebook-app.netlify.com)
+[Access it](https://github-issues-app.netlify.com)
 
-[![Netlify Status](https://api.netlify.com/api/v1/badges/87d93e9c-22f5-44c4-bb30-0f49993c3b6f/deploy-status)](https://app.netlify.com/sites/facebook-app/deploys)
+[![Netlify Status](https://api.netlify.com/api/v1/badges/c4d55c81-bf3b-4749-92e7-b7056b2b21bb/deploy-status)](https://app.netlify.com/sites/github-issues-app/deploys)
 
 ### Setup
 
